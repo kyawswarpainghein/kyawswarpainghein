@@ -1,10 +1,6 @@
 <h1 align="center">Hey 👋, I'm Kyaw Swar Paing Hein</h1>
 <h3 align="center">Frontend Developer from Myanmar 🇲🇲</h3>
 
-<p align="center"> 
-  Turning ideas into interactive and seamless digital experiences.
-</p>
-
 ---
 
 ## 🚀 About Me
